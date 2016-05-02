@@ -1,0 +1,16 @@
+body{
+        background-color:#DEDEDE;
+        font-family:geneva, sans-serif;
+}
+.panel{
+        padding: 20px;
+        margin: 10px auto;
+        background-color:#FFF;
+        width: 500px;
+        border:5px solid #666;
+        ul{
+                list-style:none;
+                text-transform:uppercase;
+                font-size:90%;
+        }
+}

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+        <head>
+                        <meta charset="UTF-8">
+                        <title>WEBPACK VERSION</title>
+                        <link href="/css/main.css" rel="stylesheet">
+        </head>
+        <body>
+                <section></section>
+                <script src="/js/bundle.js"></script>
+        </body>
+</html>
